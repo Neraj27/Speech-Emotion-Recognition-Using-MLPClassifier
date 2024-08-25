@@ -25,4 +25,4 @@
 - The dataset includes audio files labeled with emotions for training and testing the model.
 
 ## 📈 Model Performance
-- The trained MLPClassifier achieves an accuracy rate of **72.40%** in predicting emotions from speech data.
+- The trained MLPClassifier achieves an accuracy rate of approximately **72%** in predicting emotions from speech data.
